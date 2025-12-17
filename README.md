@@ -1,174 +1,151 @@
-<!-- 
-  ╔═══════════════════════════════════════════════════════════════════════════╗
-  ║                        🌲 WELCOME TO MY CYBER FOREST 🌲                    ║
-  ║         Where Nature Meets Neon • Trees Glow With Digital Dreams          ║
-  ╚═══════════════════════════════════════════════════════════════════════════╝
+<!--
+  ╔════════════════════════════════════════════════════════════════════════╗
+  ║                    🌳 DAT DOAN 🌳                                       ║
+  ║                       Datdepzai                                        ║
+  ╚════════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:39FF14,100:FF00FF&height=200&section=header&text=🌲%20Cyber%20Forest%20🌲&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Where%20Nature%20Meets%20Neon&descAlignY=55&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Neon%20Jungle&fontSize=50&fontAlign=50&fontAlignY=40&color=0:00F5FF,45:39FF14,60:8A2BE2,100:FF00FF&fontColor=ffffff&desc=Cyberpunk%20canopy%20of%20code%20%26%20data&descSize=18&descAlign=50&descAlignY=65" width="100%" alt="Neon header"/>
 
-  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8C%BF+Hi%2C+I'm+Doan+Dat+(DatDepZai)+%F0%9F%8C%BF;%E2%9A%A1+Welcome+to+my+Digital+Jungle+%E2%9A%A1;%F0%9F%8C%B2+Code+%2B+Nature+%2B+Neon+%3D+%F0%9F%92%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3200&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%8C%B3+Dat+Doan+(DatDepZai);%F0%9F%94%A5+Data+Engineer+seedling+in+a+neon+grove;%F0%9F%8C%B8+Deep+forest+of+trees%2C+flowers%2C+cyberpunk" alt="Typing banner" />
   </a>
+
+  <p>Where data pipelines glow like fireflies and models bloom under neon leaves.</p>
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
-  <span style="color: #00F5FF;">About Me</span>
-</h2>
+<h2 align="center">🌿 Neon Grove</h2>
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="forest gif"/>
+<img align="right" src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" width="260" alt="Falling neon leaves"/>
 
 ```yaml
-🌲 Cyber Forest Dweller:
-  name: "Dat Doan"
-  alias: "DatDepZai"
-  born: Sep 26, 2004
-  location: "Vietnam 🇻🇳"
-  
-🎯 Future Path:
-  role: "Data Engineer"
-  interests: ["AI/ML", "Big Data", "Data Pipeline"]
-  motto: "Turning raw data into digital forests 🌲"
-  
-🌿 Currently:
-  - 🔭 Building data pipelines & exploring AI
-  - 🌱 Learning Apache Spark, Kafka, Airflow
-  - 🤖 Passionate about Machine Learning & Deep Learning
-  - 💡 Blending data science with creative solutions
-
-⚡ Fun Fact: 
-  "In my forest, data flows like rivers 
-   and AI models grow like ancient trees 🌳🤖"
+name: "Dat Doan (DatDepZai)"
+origin: "Vietnam 🇻🇳"
+theme: "Trees • Foliage • Neon • Cyberpunk"
+path: "Data Engineer in training"
+mission: "Grow clean data forests & light them up with AI"
+motto: "Plant seeds, stream data, watch models bloom"
 ```
+
+- 🌱 Growing with Apache Spark, Kafka, Airflow, dbt, and AWS.
+- 🔭 Building people-counter vision and e-commerce pipelines.
+- 🎨 Palette: cyan + lime + magenta (the glow of my digital canopy).
 
 <br clear="right"/>
 
 ---
 
-<!-- Connect Section -->
-<h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  <span style="color: #FF00FF;">Connect With Me</span>
-</h2>
+<h2 align="center">🌌 Currently Sprouting</h2>
+
+| 🌳 Roots | 🌿 In Bloom | 🚀 Next Seeds |
+| --- | --- | --- |
+| Math + data fundamentals | Real-time streams & orchestration | MLOps discipline & data quality |
+| Python, SQL, PyTorch | Model deployment experiments | Streaming viz & observability |
+| Storytelling with color | Friendly automation | Sharing what I learn |
+
+---
+
+<h2 align="center">⚙️ Toolbelt</h2>
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-nddat8888%40gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nddat8888@gmail.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-saynangboy-FF00FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/saynangboy)
-  [![GitHub](https://img.shields.io/badge/GitHub-datnndd-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/datnndd)
+  ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00F5FF&labelColor=0b0b0b&color=39FF14)
+  ![SQL](https://img.shields.io/badge/SQL-101010?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF00FF&labelColor=0b0b0b&color=39FF14)
+  ![Pandas](https://img.shields.io/badge/Pandas-101010?style=for-the-badge&logo=pandas&logoColor=00F5FF&labelColor=0b0b0b&color=FF00FF)
+  ![NumPy](https://img.shields.io/badge/NumPy-101010?style=for-the-badge&logo=numpy&logoColor=39FF14&labelColor=0b0b0b&color=8A2BE2)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-101010?style=for-the-badge&logo=pytorch&logoColor=FF00FF&labelColor=0b0b0b&color=39FF14)
+  ![Docker](https://img.shields.io/badge/Docker-101010?style=for-the-badge&logo=docker&logoColor=00F5FF&labelColor=0b0b0b&color=39FF14)
+  ![Airflow](https://img.shields.io/badge/Apache%20Airflow-101010?style=for-the-badge&logo=apacheairflow&logoColor=39FF14&labelColor=0b0b0b&color=FF00FF)
+  ![Spark](https://img.shields.io/badge/Apache%20Spark-101010?style=for-the-badge&logo=apachespark&logoColor=FF00FF&labelColor=0b0b0b&color=39FF14)
+  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-101010?style=for-the-badge&logo=apachekafka&logoColor=00F5FF&labelColor=0b0b0b&color=8A2BE2)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=39FF14&labelColor=0b0b0b&color=FF00FF)
+  ![AWS](https://img.shields.io/badge/AWS-101010?style=for-the-badge&logo=amazonaws&logoColor=FF00FF&labelColor=0b0b0b&color=39FF14)
+  ![Linux](https://img.shields.io/badge/Linux-101010?style=for-the-badge&logo=linux&logoColor=00F5FF&labelColor=0b0b0b&color=39FF14)
+  ![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=FF00FF&labelColor=0b0b0b&color=39FF14)
 
 </div>
 
 ---
 
-<!-- Featured Projects -->
-<h2>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
-  <span style="color: #FF00FF;">Featured Projects 🚀</span>
-</h2>
+<h2 align="center">🚀 Featured Trails</h2>
 
 <div align="center">
 
 <a href="https://github.com/datnndd/People-Counter-with-Age-Gender-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=People-Counter-with-Age-Gender-Prediction&theme=radical&hide_border=true&bg_color=101010&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=People-Counter-with-Age-Gender-Prediction&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF" />
 </a>
-<a href="https://github.com/datnndd/spark-kaggle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=spark-kaggle&theme=radical&hide_border=true&bg_color=101010&title_color=FF00FF&icon_color=39FF14&text_color=FFFFFF" />
-</a>
+
 <a href="https://github.com/datnndd/Fashion_Shop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=Fashion_Shop&theme=radical&hide_border=true&bg_color=101010&title_color=39FF14&icon_color=00F5FF&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/datnndd/BookStoreManagement">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=BookStoreManagement&theme=radical&hide_border=true&bg_color=101010&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=Fashion_Shop&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF00FF&icon_color=39FF14&text_color=FFFFFF" />
 </a>
 
 </div>
 
 ---
 
----
-
-<!-- GitHub Stats -->
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-  <span style="color: #00F5FF;">GitHub Stats</span>
-</h2>
+<h2 align="center">📈 Forest Pulse</h2>
 
 <div align="center">
   
-  <!-- Stats Cards -->
   <a href="https://github.com/datnndd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datnndd&show_icons=true&theme=radical&hide_border=true&bg_color=101010&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF&ring_color=FF00FF" alt="Dat's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datnndd&layout=compact&theme=radical&hide_border=true&bg_color=101010&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datnndd&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF&ring_color=FF00FF" alt="Dat's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datnndd&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF00FF&text_color=FFFFFF" alt="Top Languages"/>
   </a>
 
-  <!-- Streak Stats -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datnndd&theme=radical&hide_border=true&background=101010&stroke=00F5FF&ring=FF00FF&fire=39FF14&currStreakLabel=00F5FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datnndd&theme=radical&hide_border=true&background=0D0D0D&stroke=00F5FF&ring=FF00FF&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
-<h2>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30">
-  <span style="color: #FF00FF;">Activity Graph</span>
-</h2>
+<h2 align="center">🌱 Activity Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datnndd&bg_color=101010&color=00F5FF&line=39FF14&point=FF00FF&area=true&area_color=39FF14&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datnndd&bg_color=0D0D0D&color=00F5FF&line=39FF14&point=FF00FF&area=true&area_color=8A2BE2&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
 
-<!-- Snake Animation -->
-<h2>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30">
-  <span style="color: #39FF14;">Contribution Snake 🐍</span>
-</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datnndd/datnndd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/datnndd/datnndd/output/github-snake-neon.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/datnndd/datnndd/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/datnndd/datnndd/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/datnndd/datnndd/output/github-snake-neon.svg" />
   </picture>
 
 </div>
 
 ---
 
-<!-- Quote -->
+<h2 align="center">📬 Connect</h2>
+
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=In%20the%20Cyber%20Forest,%20every%20commit%20is%20a%20seed%20that%20grows%20into%20something%20beautiful&author=DatDepZai" alt="Quote"/>
+  [![Email](https://img.shields.io/badge/Email-nddat8888%40gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nddat8888@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-datnd4444-FF00FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/datnd4444/)
+  [![GitHub](https://img.shields.io/badge/GitHub-datnndd-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/datnndd)
 
 </div>
 
 ---
 
-<!-- Profile Views & Footer -->
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=datnndd&color=00F5FF&style=for-the-badge&label=FOREST+VISITORS)
-  
-  <!-- Animated Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:39FF14,100:00F5FF&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=In%20the%20neon%20forest,%20every%20commit%20is%20a%20seed%20that%20grows%20into%20light&author=DatDepZai" alt="Quote"/>
+  <br/><br/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=datnndd&color=39FF14&style=for-the-badge&label=FOREST+VISITORS)
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,45:8A2BE2,75:39FF14,100:00F5FF&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
 </div>
 
-<!-- 
-  🌲🌲🌲 Thank you for visiting my Cyber Forest! 🌲🌲🌲 
-  May your code compile and your bugs be few 🐛✨
--->
+<!-- 🌳 Thanks for wandering through my neon jungle. May your code be evergreen and your bugs be tiny. -->
