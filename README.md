@@ -29,9 +29,9 @@
 
 ```yaml
 🌲 Cyber Forest Dweller:
-  name: "Doan Dat"
+  name: "Dat Doan"
   alias: "DatDepZai"
-  born: 2004
+  born: Sep 26, 2004
   location: "Vietnam 🇻🇳"
   
 🎯 Future Path:
@@ -62,9 +62,9 @@
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-nddat8888%40gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:nddat8888@gmail.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-saynangboy-FF00FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://www.facebook.com/saynangboy)
-  [![GitHub](https://img.shields.io/badge/GitHub-datnndd-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/datnndd)
+  [![Email](https://img.shields.io/badge/Email-nddat8888%40gmail.com-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:nddat8888@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-saynangboy-FF00FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/saynangboy)
+  [![GitHub](https://img.shields.io/badge/GitHub-datnndd-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/datnndd)
 
 </div>
 
@@ -79,51 +79,21 @@
 <div align="center">
 
 <a href="https://github.com/datnndd/People-Counter-with-Age-Gender-Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=People-Counter-with-Age-Gender-Prediction&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=People-Counter-with-Age-Gender-Prediction&theme=radical&hide_border=true&bg_color=101010&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF" />
 </a>
 <a href="https://github.com/datnndd/spark-kaggle">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=spark-kaggle&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=39FF14&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=spark-kaggle&theme=radical&hide_border=true&bg_color=101010&title_color=FF00FF&icon_color=39FF14&text_color=FFFFFF" />
 </a>
 <a href="https://github.com/datnndd/Fashion_Shop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=Fashion_Shop&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F5FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=Fashion_Shop&theme=radical&hide_border=true&bg_color=101010&title_color=39FF14&icon_color=00F5FF&text_color=FFFFFF" />
 </a>
 <a href="https://github.com/datnndd/BookStoreManagement">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=BookStoreManagement&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=BookStoreManagement&theme=radical&hide_border=true&bg_color=101010&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF" />
 </a>
 
 </div>
 
 ---
-
-<!-- Tech Stack -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-  <span style="color: #39FF14;">Tech Forest 🌿</span>
-</h2>
-
-<div align="center">
-
-  <!-- Languages -->
-  ![Python](https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=0D1117)
-  ![SQL](https://img.shields.io/badge/SQL-39FF14?style=for-the-badge&logo=postgresql&logoColor=0D1117)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=0D1117)
-  
-  <!-- Data Engineering & AI -->
-  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-00F5FF?style=for-the-badge&logo=apachespark&logoColor=0D1117)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF00FF?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-39FF14?style=for-the-badge&logo=pandas&logoColor=0D1117)
-  ![NumPy](https://img.shields.io/badge/NumPy-00F5FF?style=for-the-badge&logo=numpy&logoColor=0D1117)
-  
-  <!-- Frameworks -->
-  ![FastAPI](https://img.shields.io/badge/FastAPI-FF00FF?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![React](https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=0D1117)
-  
-  <!-- Tools -->
-  ![Docker](https://img.shields.io/badge/Docker-00F5FF?style=for-the-badge&logo=docker&logoColor=0D1117)
-  ![Git](https://img.shields.io/badge/Git-FF00FF?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=0D1117)
-
-</div>
 
 ---
 
@@ -137,13 +107,13 @@
   
   <!-- Stats Cards -->
   <a href="https://github.com/datnndd">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datnndd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF&ring_color=FF00FF" alt="Dat's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datnndd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datnndd&show_icons=true&theme=radical&hide_border=true&bg_color=101010&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF&ring_color=FF00FF" alt="Dat's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datnndd&layout=compact&theme=radical&hide_border=true&bg_color=101010&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
   </a>
 
   <!-- Streak Stats -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datnndd&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00FF&fire=39FF14&currStreakLabel=00F5FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datnndd&theme=radical&hide_border=true&background=101010&stroke=00F5FF&ring=FF00FF&fire=39FF14&currStreakLabel=00F5FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -156,7 +126,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datnndd&bg_color=0D1117&color=00F5FF&line=39FF14&point=FF00FF&area=true&area_color=39FF14&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datnndd&bg_color=101010&color=00F5FF&line=39FF14&point=FF00FF&area=true&area_color=39FF14&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
