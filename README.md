@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Neon%20Jungle&fontSize=50&fontAlign=50&fontAlignY=40&color=gradient&customColorList=2,3,12,19,27&fontColor=ffffff&desc=Cyberpunk%20canopy%20of%20code%20and%20data&descSize=18&descAlign=50&descAlignY=65" width="100%" alt="Neon header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:39FF14,100:FF00FF&height=200&section=header&text=Neon%20Jungle&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cyberpunk%20canopy%20of%20code%20and%20data&descSize=18&descAlignY=55" width="100%" alt="Neon header"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3200&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%8C%B3+Dat+Doan+(DatDepZai);%F0%9F%94%A5+Data+Engineer+seedling+in+a+neon+grove;%F0%9F%8C%B8+Deep+forest+of+trees%2C+flowers%2C+cyberpunk" alt="Typing banner" />
