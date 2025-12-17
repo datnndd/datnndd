@@ -7,10 +7,10 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:39FF14,100:FF00FF&height=200&section=header&text=Dat%20Doan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20from%20Vietnam&descSize=18&descAlignY=55" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:39FF14,100:FF00FF&height=200&section=header&text=Dat%20Doan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Engineer%20from%20Vietnam&descSize=18&descAlignY=55" width="100%" alt="Header"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3200&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Dat+Doan;Welcome+to+my+GitHub+Profile!" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3200&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Dat+Doan;Aspiring+Data+Engineer" alt="Typing banner" />
   </a>
 
 </div>
@@ -24,20 +24,19 @@
 ```yaml
 name: "Dat Doan"
 location: "Vietnam 🇻🇳"
-role: "Software Developer"
+goal: "Aspiring Data Engineer"
 interests:
-  - Building web applications
-  - Learning new technologies
-  - Problem solving
+  - Data pipelines & ETL
+  - Data warehousing
+  - SQL & Python for data
+  - Cloud platforms (AWS, GCP)
 ```
 
-- 🎓 Currently learning and growing as a developer
-- 🔭 Working on personal projects to improve my skills
-- 💡 Always eager to learn something new
+- 🎓 Learning Data Engineering fundamentals
+- 🔭 Building projects to develop practical skills
+- 💡 Exploring data tools: Python, SQL, and more
 
 <br clear="right"/>
-
----
 
 ---
 
