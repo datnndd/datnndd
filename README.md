@@ -7,72 +7,41 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:39FF14,100:FF00FF&height=200&section=header&text=Neon%20Jungle&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cyberpunk%20canopy%20of%20code%20and%20data&descSize=18&descAlignY=55" width="100%" alt="Neon header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:39FF14,100:FF00FF&height=200&section=header&text=Dat%20Doan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20from%20Vietnam&descSize=18&descAlignY=55" width="100%" alt="Header"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3200&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%8C%B3+Dat+Doan+(DatDepZai);%F0%9F%94%A5+Data+Engineer+seedling+in+a+neon+grove;%F0%9F%8C%B8+Deep+forest+of+trees%2C+flowers%2C+cyberpunk" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3200&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Dat+Doan;Welcome+to+my+GitHub+Profile!" alt="Typing banner" />
   </a>
-
-  <p>Where data pipelines glow like fireflies and models bloom under neon leaves.</p>
 
 </div>
 
 ---
 
-<h2 align="center">🌿 Neon Grove</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" width="260" alt="Falling neon leaves"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding"/>
 
 ```yaml
-name: "Dat Doan (DatDepZai)"
-origin: "Vietnam 🇻🇳"
-theme: "Trees • Foliage • Neon • Cyberpunk"
-path: "Data Engineer in training"
-mission: "Grow clean data forests & light them up with AI"
-motto: "Plant seeds, stream data, watch models bloom"
+name: "Dat Doan"
+location: "Vietnam 🇻🇳"
+role: "Software Developer"
+interests:
+  - Building web applications
+  - Learning new technologies
+  - Problem solving
 ```
 
-- 🌱 Growing with Apache Spark, Kafka, Airflow, dbt, and AWS.
-- 🔭 Building people-counter vision and e-commerce pipelines.
-- 🎨 Palette: cyan + lime + magenta (the glow of my digital canopy).
+- 🎓 Currently learning and growing as a developer
+- 🔭 Working on personal projects to improve my skills
+- 💡 Always eager to learn something new
 
 <br clear="right"/>
 
 ---
 
-<h2 align="center">🌌 Currently Sprouting</h2>
-
-| 🌳 Roots | 🌿 In Bloom | 🚀 Next Seeds |
-| --- | --- | --- |
-| Math + data fundamentals | Real-time streams & orchestration | MLOps discipline & data quality |
-| Python, SQL, PyTorch | Model deployment experiments | Streaming viz & observability |
-| Storytelling with color | Friendly automation | Sharing what I learn |
-
 ---
 
-<h2 align="center">⚙️ Toolbelt</h2>
-
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00F5FF&labelColor=0b0b0b&color=39FF14)
-  ![SQL](https://img.shields.io/badge/SQL-101010?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF00FF&labelColor=0b0b0b&color=39FF14)
-  ![Pandas](https://img.shields.io/badge/Pandas-101010?style=for-the-badge&logo=pandas&logoColor=00F5FF&labelColor=0b0b0b&color=FF00FF)
-  ![NumPy](https://img.shields.io/badge/NumPy-101010?style=for-the-badge&logo=numpy&logoColor=39FF14&labelColor=0b0b0b&color=8A2BE2)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-101010?style=for-the-badge&logo=pytorch&logoColor=FF00FF&labelColor=0b0b0b&color=39FF14)
-  ![Docker](https://img.shields.io/badge/Docker-101010?style=for-the-badge&logo=docker&logoColor=00F5FF&labelColor=0b0b0b&color=39FF14)
-  ![Airflow](https://img.shields.io/badge/Apache%20Airflow-101010?style=for-the-badge&logo=apacheairflow&logoColor=39FF14&labelColor=0b0b0b&color=FF00FF)
-  ![Spark](https://img.shields.io/badge/Apache%20Spark-101010?style=for-the-badge&logo=apachespark&logoColor=FF00FF&labelColor=0b0b0b&color=39FF14)
-  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-101010?style=for-the-badge&logo=apachekafka&logoColor=00F5FF&labelColor=0b0b0b&color=8A2BE2)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=39FF14&labelColor=0b0b0b&color=FF00FF)
-  ![AWS](https://img.shields.io/badge/AWS-101010?style=for-the-badge&logo=amazonaws&logoColor=FF00FF&labelColor=0b0b0b&color=39FF14)
-  ![Linux](https://img.shields.io/badge/Linux-101010?style=for-the-badge&logo=linux&logoColor=00F5FF&labelColor=0b0b0b&color=39FF14)
-  ![Git](https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=FF00FF&labelColor=0b0b0b&color=39FF14)
-
-</div>
-
----
-
-<h2 align="center">🚀 Featured Trails</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
@@ -88,7 +57,7 @@ motto: "Plant seeds, stream data, watch models bloom"
 
 ---
 
-<h2 align="center">📈 Forest Pulse</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
   
@@ -140,12 +109,12 @@ motto: "Plant seeds, stream data, watch models bloom"
 
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=In%20the%20neon%20forest,%20every%20commit%20is%20a%20seed%20that%20grows%20into%20light&author=DatDepZai" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
   <br/><br/>
-  ![Profile Views](https://komarev.com/ghpvc/?username=datnndd&color=39FF14&style=for-the-badge&label=FOREST+VISITORS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=datnndd&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,45:8A2BE2,75:39FF14,100:00F5FF&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
 </div>
 
-<!-- 🌳 Thanks for wandering through my neon jungle. May your code be evergreen and your bugs be tiny. -->
+<!-- Thanks for visiting my profile! -->
