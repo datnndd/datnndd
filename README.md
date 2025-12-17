@@ -31,16 +31,23 @@
 🌲 Cyber Forest Dweller:
   name: "Doan Dat"
   alias: "DatDepZai"
+  born: 2004
   location: "Vietnam 🇻🇳"
   
+🎯 Future Path:
+  role: "Data Engineer"
+  interests: ["AI/ML", "Big Data", "Data Pipeline"]
+  motto: "Turning raw data into digital forests 🌲"
+  
 🌿 Currently:
-  - 🔭 Exploring the digital wilderness
-  - 🌱 Growing my coding skills daily
-  - � Blending nature vibes with tech
+  - 🔭 Building data pipelines & exploring AI
+  - 🌱 Learning Apache Spark, Kafka, Airflow
+  - 🤖 Passionate about Machine Learning & Deep Learning
+  - 💡 Blending data science with creative solutions
 
 ⚡ Fun Fact: 
-  "In my forest, trees run on code 
-   and flowers bloom in neon colors 🌸💜"
+  "In my forest, data flows like rivers 
+   and AI models grow like ancient trees 🌳🤖"
 ```
 
 <br clear="right"/>
@@ -63,6 +70,31 @@
 
 ---
 
+<!-- Featured Projects -->
+<h2>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+  <span style="color: #FF00FF;">Featured Projects 🚀</span>
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/datnndd/People-Counter-with-Age-Gender-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=People-Counter-with-Age-Gender-Prediction&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=39FF14&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/datnndd/spark-kaggle">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=spark-kaggle&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=39FF14&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/datnndd/Fashion_Shop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=Fashion_Shop&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F5FF&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/datnndd/BookStoreManagement">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=datnndd&repo=BookStoreManagement&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
+
 <!-- Tech Stack -->
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
@@ -73,20 +105,23 @@
 
   <!-- Languages -->
   ![Python](https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=0D1117)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-39FF14?style=for-the-badge&logo=javascript&logoColor=0D1117)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-FF00FF?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-00F5FF?style=for-the-badge&logo=html5&logoColor=0D1117)
-  ![CSS3](https://img.shields.io/badge/CSS3-39FF14?style=for-the-badge&logo=css3&logoColor=0D1117)
+  ![SQL](https://img.shields.io/badge/SQL-39FF14?style=for-the-badge&logo=postgresql&logoColor=0D1117)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=0D1117)
+  
+  <!-- Data Engineering & AI -->
+  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-00F5FF?style=for-the-badge&logo=apachespark&logoColor=0D1117)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF00FF?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-39FF14?style=for-the-badge&logo=pandas&logoColor=0D1117)
+  ![NumPy](https://img.shields.io/badge/NumPy-00F5FF?style=for-the-badge&logo=numpy&logoColor=0D1117)
   
   <!-- Frameworks -->
-  ![React](https://img.shields.io/badge/React-FF00FF?style=for-the-badge&logo=react&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-00F5FF?style=for-the-badge&logo=node.js&logoColor=0D1117)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-39FF14?style=for-the-badge&logo=fastapi&logoColor=0D1117)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-FF00FF?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![React](https://img.shields.io/badge/React-39FF14?style=for-the-badge&logo=react&logoColor=0D1117)
   
   <!-- Tools -->
-  ![Git](https://img.shields.io/badge/Git-FF00FF?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-00F5FF?style=for-the-badge&logo=docker&logoColor=0D1117)
-  ![VS Code](https://img.shields.io/badge/VS_Code-39FF14?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117)
+  ![Git](https://img.shields.io/badge/Git-FF00FF?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=0D1117)
 
 </div>
 
